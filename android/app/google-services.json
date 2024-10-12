@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "986812715463",
+    "project_id": "bedriver-12e77",
+    "storage_bucket": "bedriver-12e77.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986812715463:android:b0347a99853a374c0709e2",
+        "android_client_info": {
+          "package_name": "com.rbservice.bedrive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "986812715463-4tvd5fk9breorduej6grhui1scn5455i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmUru_mAy1JBRTGPdSOkR0PyTGFBgU_jA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "986812715463-4tvd5fk9breorduej6grhui1scn5455i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "986812715463-c8b3l5e3mts7e1vgks73j1hrnbhdtjl9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.vebto.bedrive"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,19 +1,19 @@
 # Miscellaneous
-*.class
-*.log
-*.pyc
-*.swp
-.DS_Store
-.atom/
-.buildlog/
-.history
-.svn/
-migrate_working_dir/
-GoogleService-Info.plist
-google-services.json
-lib/firebase_options.dart
-lib/example_firebase_options.dart
-firebase_app_id_file.json
+#*.class
+#*.log
+#*.pyc
+#*.swp
+#.DS_Store
+#.atom/
+#.buildlog/
+#.history
+#.svn/
+#migrate_working_dir/
+#GoogleService-Info.plist
+#google-services.json
+#lib/firebase_options.dart
+#lib/example_firebase_options.dart
+#firebase_app_id_file.json
 
 # IntelliJ related
 *.iml
