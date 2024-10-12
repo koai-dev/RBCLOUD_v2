@@ -165,7 +165,7 @@ GoRouter goRouter(GoRouterRef ref) {
         path: AppRoute.transfers.path,
         name: AppRoute.transfers.name,
         builder: (context, state) => const TransfersScreen(),
-        onExit: (context) {
+        onExit: (context, state) {
           ref.read(transferQueueProvider.notifier).clearAllCompleted();
           return true;
         },
